@@ -3,9 +3,6 @@ layout: page
 title: Contact
 description: Let's talk.
 permalink: /contact/
-redirect_from:
- - /pt/contato/
- - /en/contact/
 ---
 
 <style type="text/css" media="screen">
