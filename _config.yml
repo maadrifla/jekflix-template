@@ -7,13 +7,13 @@ url: "http:maadrifla.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: maadrifla
+user_description: sou um simples curioso.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: github_maadrifla
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
