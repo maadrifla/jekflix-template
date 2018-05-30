@@ -3,6 +3,9 @@ layout: page
 title: Contact
 description: Let's talk.
 permalink: /contact/
+redirect_from:
+ - /pt/contato/
+ - /en/contact/
 ---
 
 <style type="text/css" media="screen">
@@ -21,7 +24,7 @@ permalink: /contact/
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
-        <input type="hidden" name="_language" value="en" />
+        <input type="hidden" name="_language" value="pt" />
 
         <input type="text" name="name" placeholder="Your name" v-validate="'required'"
                :class="{ 'has-error': errors.has('name') }">
