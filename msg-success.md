@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /contact/message-sent/
+permalink: /jekflixee/contact/message-sent/
 ---
 
 <style type="text/css" media="screen">
